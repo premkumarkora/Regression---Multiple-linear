@@ -24,3 +24,5 @@ Handwriting recognition: SVM can recognize handwritten characters based on their
 Generalized predictive control: SVM can control chaotic systems based on their inputs and outputs. This can be useful for engineering, physics, or economics
 
 These are just some of the examples of where SVM can be used. 
+
+In my example I have used a very small data set to illustriate the SVM
