@@ -6,7 +6,7 @@ import category_encoders as ce
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
 
-df = pd.read_csv("../../data/playNoPlay.csv")
+df = pd.read_csv("playNoPlay.csv")
 x= df[['outlook','temp','humidity','windy']] #
 y = df['play']
 le= LabelEncoder()
